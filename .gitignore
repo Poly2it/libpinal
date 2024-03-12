@@ -1,0 +1,11 @@
+/.build/*
+!.build/.gitkeep
+
+/dist/include/*
+!dist/include/libpinal
+/dist/include/libpinal/*
+!dist/include/libpinal/.gitkeep
+
+/dist/lib/*
+!dist/lib/.gitkeep
+
